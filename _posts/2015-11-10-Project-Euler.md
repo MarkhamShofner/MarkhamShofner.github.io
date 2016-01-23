@@ -17,6 +17,8 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
 Find the sum of all the multiples of 3 or 5 below 1000.
 
 The code I used -
+
+```js
 //Project Euler - Problem 1
 //Find the sum of all the multiples of 3 or 5 below 1000.
 
@@ -59,10 +61,11 @@ else {}
 
 // return the current value of the sum variable
 sum;
+```
 
 In the end, it's a fairly simple concept. There is so much power to it though. What if, instead of calculating through 10 (which could be done by hand), we needed to calculate through 1,000 (as in this problem), or 10,000,000 (which could take a lifetime). Computers can return these figures in incredibly short amounts of time. We simply need to learn how to ask them to.
 
 As Tyrion says “My brother has his sword, King Robert has his warhammer and I have my mind...and a mind needs books as a sword needs a whetstone if it is to keep its edge. That's why I read so much Jon Snow.” Except replace books with coding problems, and Jon Snow with you. Also R+L=J, naturally. And, again naturally, this means that R=J-L, but mainly the corollary that (R+L)/J = 1.
 
-"Sleep is good," he said. "And books are better."
+>"Sleep is good," he said. "And books are better."
 -Tyrion Lannister
