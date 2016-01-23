@@ -72,7 +72,7 @@ Here I used a for loop to determine the sum of all squares between 1 and the inp
 
 Then we'll work through
 // function to square the sum from 1 to input integer x
-```javascript
+```js
 function squareSum (x) {
 var sum = 0;
 for (var i = 1; i<=x; i++) {
@@ -85,7 +85,7 @@ This function has a similar logic to the preceding one.
 
 Finally, we can write a short function that combines the above two functions to calculate the difference between the two. Does yours look like this?
 // function to find the sum square difference for an input integer x
-```javascript
+```js
 function sumSquareDif (x) {
 return squareSum(x) - sumSquare(x);
 }
