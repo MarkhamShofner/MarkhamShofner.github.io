@@ -53,7 +53,7 @@ Mine looks like this
 
 ```javascript
 function square (x) {
-return x*x;
+  return x*x;
 }
 ```
 What does yours look like?
@@ -63,11 +63,11 @@ Next we can expand
 
 ```javascript
 function sumSquare (x) {
-var sum = 0;
-for (var i = 1; i<=x; i++) {
-sum += square(i);
-}
-return sum;
+  var sum = 0;
+  for (var i = 1; i<=x; i++) {
+      sum += square(i);
+    }
+  return sum;
 }
 ```
 Here I used a for loop to determine the sum of all squares between 1 and the inputted value.
@@ -77,11 +77,11 @@ Then we'll work through
 
 ```js
 function squareSum (x) {
-var sum = 0;
-for (var i = 1; i<=x; i++) {
-sum += i;
-}
-return square(sum);
+  var sum = 0;
+  for (var i = 1; i<=x; i++) {
+    sum += i;
+  }
+  return square(sum);
 }
 ```
 This function has a similar logic to the preceding one.
@@ -91,7 +91,7 @@ Finally, we can write a short function that combines the above two functions to 
 
 ```js
 function sumSquareDif (x) {
-return squareSum(x) - sumSquare(x);
+  return squareSum(x) - sumSquare(x);
 }
 ```
 
@@ -101,24 +101,24 @@ In the end, here is my uncommented code ---
 
 ```js
 function square (x) {
-return x*x;
+  return x*x;
 }
 function sumSquare (x) {
-var sum = 0;
-for (var i = 1; i<=x; i++) {
-sum += square(i);
-}
-return sum;
+  var sum = 0;
+  for (var i = 1; i<=x; i++) {
+    sum += square(i);
+  }
+  return sum;
 }
 function squareSum (x) {
-var sum = 0;
-for (var i = 1; i<=x; i++) {
-sum += i;
-}
-return square(sum);
+  var sum = 0;
+  for (var i = 1; i<=x; i++) {
+    sum += i;
+  }
+  return square(sum);
 }
 function sumSquareDif (x) {
-return squareSum(x) - sumSquare(x);
+  return squareSum(x) - sumSquare(x);
 }
 ```
 ---
