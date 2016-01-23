@@ -88,6 +88,7 @@ comments: true
       </div>
       {% endif %}
 
+      {% if site.related_posts.length > 0 %}
       <div class="content-panel related clearfix">
         {% for post in site.related_posts limit:1 %}
         <div class="related-header">
@@ -123,6 +124,7 @@ comments: true
           {% endif %}
         </div>
       </div>
+      {% endif %}
 
     </div>
 
