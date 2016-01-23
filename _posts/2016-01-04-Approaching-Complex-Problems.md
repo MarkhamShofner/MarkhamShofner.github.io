@@ -50,6 +50,7 @@ One could probably combine parts of these functions together (particularly somet
 Expanding my first piece of pseudocode I would write a function to achieve the stated goal.
 // function to return the square of an input integer x
 Mine looks like this
+
 ```javascript
 function square (x) {
 return x*x;
@@ -59,6 +60,7 @@ What does yours look like?
 
 Next we can expand
 // function to sum the squares from 1 to input integer x
+
 ```javascript
 function sumSquare (x) {
 var sum = 0;
@@ -72,6 +74,7 @@ Here I used a for loop to determine the sum of all squares between 1 and the inp
 
 Then we'll work through
 // function to square the sum from 1 to input integer x
+
 ```js
 function squareSum (x) {
 var sum = 0;
@@ -85,6 +88,7 @@ This function has a similar logic to the preceding one.
 
 Finally, we can write a short function that combines the above two functions to calculate the difference between the two. Does yours look like this?
 // function to find the sum square difference for an input integer x
+
 ```js
 function sumSquareDif (x) {
 return squareSum(x) - sumSquare(x);
