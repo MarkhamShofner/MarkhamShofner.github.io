@@ -95,7 +95,7 @@ In all functions, I suggest that you test each as you go, to make sure that the 
 
 In the end, here is my uncommented code ---
 
-```javascript
+```js
 function square (x) {
 return x*x;
 }
