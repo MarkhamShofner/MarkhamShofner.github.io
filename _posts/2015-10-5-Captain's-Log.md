@@ -1,3 +1,14 @@
+---
+layout:     post
+title:      Captain's Log
+date:       2015-10-05 15:55:00
+author:     Markham Shofner
+summary:    Intro to the blog
+categories: web development
+tags:
+ - learning
+---
+
 This is my wordpress site. There are many others like it, but this one is mine. This site will serve as a mechanism to track my experiences as I enter the world of computer programming. I am a 26 year old living in Washington, DC (via California [Pomona College] via Tennessee [born and raised]). I just left a job in management consulting to attend an accelerated coding school in the district. The course is offered by General Assembly and focuses on full-stack Web Development, primarily through JavaScript.
 
 I took a course in HTML/CSS in high school, where I learned how to build the bones of a website. My peak achievement was creating a site that listed my top 5 video games, in order. Each had some sort of graphic and overview associated with it. Nothing fancy. But I do remember being unreasonably proud of my site – mainly because I was certain that Legend of Zelda: Ocarina of Time was the greatest game ever made, and that I felt others needed to be certain of it as well. The two spot, again clearly, belonged to Halo: Combat Evolved.
