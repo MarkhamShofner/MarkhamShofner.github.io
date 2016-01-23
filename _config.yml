@@ -1,21 +1,21 @@
 # Site settings
 title: "Markham Shofner"
 email: markham.shofner@gmail.com
-description: "A dark blog theme for Jekyll."
+description: "A blog theme for Jekyll."
 baseurl: ""
-url: "http://yvoloshin.github.io"
-title_description: "A newly-minted web developer specializing in Ruby on Rails. Also experienced in HTML5, CSS3, JQuery, JavaScript, and more. A former chemical engineer. A life-long learner who enjoys picking up new technology skills and building on familiar ones. Yury lives in Brooklyn, NY with his wife and two daughters."
-title_image: "http://i.imgur.com/VSI9h3S.jpg"
-google_analytics: "UA-67857103-1"
-disqus_account: yvoloshin
-github_repository: https://yvoloshin.github.io
+url: "http://markhamshofner.github.io"
+title_description: "Web developer with a focus on JavaScript. Also experience in d3, HTML 5, CSS3, jQuery, Ruby on Rails, and a few more. Former management consultant. Professional frisbee player. General derp who loves to learn - anything from useless trivia to new technologies. I live in Washington, DC."
+title_image: "http://imgur.com/AmqhzdF"
+google_analytics:
+disqus_account:
+github_repository: https://markhamshofner.github.io
 addthis_id:
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: YuryVoloshin
-github_username:  yvoloshin
-linkedin_link: http://www.linkedin.com/in/yvoloshin
+twitter_username: MarkhamShofner
+github_username:  MarkhamShofner
+linkedin_link: http://www.linkedin.com/in/markhamshofner
 google_plus_link:
 stackoverflow_link:
 
