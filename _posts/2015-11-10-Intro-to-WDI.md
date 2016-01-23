@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Intro to WDI
-date:       2015-10-08 03:24:00
+date:       2015-11-10 03:24:00
 author:     Markham Shofner
 summary:    First month at GA
 categories: web development
