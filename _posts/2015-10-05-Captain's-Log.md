@@ -19,4 +19,8 @@ I don’t remember 3 through 5. But high school wasn’t about coding for me. It
 
   - Tony Morrison
 
+  > Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.
+
+  	- Otto Von Bismarck
+
 	- Otto Von Bismarck
