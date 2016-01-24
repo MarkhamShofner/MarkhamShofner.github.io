@@ -1,7 +1,7 @@
 # Site settings
 title: "Markham Shofner"
 email: markham.shofner@gmail.com
-description: "A blog theme for Jekyll."
+description: "A blog."
 baseurl: ""
 url: "http://markhamshofner.github.io"
 title_description: "Web developer with a focus on JavaScript. Also experienced in d3, HTML 5, CSS3, jQuery, Ruby on Rails, and a few more. Former management consultant. Professional frisbee player. General derp who loves to learn - anything from useless trivia to new technologies. I live in Washington, DC."
