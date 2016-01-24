@@ -28,12 +28,9 @@ var sum = 0;
 //top end of the range to sum across, 1000 in the case of this problem
 var range = 1000;
 
-//for loop to test if the acting number is a multiple of 3 or 5, and then add the # to sum
-//this text after for and within the () means to start looping at 0, continue looping while "i" is less than "range" [1000 in this case], and to increase the count of "i" by 1 at the end of each loop iteration [i++]
+//for loop to test if the acting number is a multiple of 3 or 5, and then add the # to sum. this text after for and within the () means to start looping at 0, continue looping while "i" is less than "range" [1000 in this case], and to increase the count of "i" by 1 at the end of each loop iteration [i++]
 for (var i=0; i<range; i++) {
-// this section says to execute the code inside the curly brackets, if i%3 === 0
-// i%3 returns the remainder of i/3. if i%3 === 0, then i is divisible by 3.
-// so basically, if i is divisible by 3, execute the contained code.
+// this section says to execute the code inside the curly brackets, if i%3 === 0. i%3 returns the remainder of i/3. if i%3 === 0, then i is divisible by 3. so basically, if i is divisible by 3, execute the contained code.
 if (i % 3 === 0) {
 // if this code is reached, it means the i is divisible by 3 in which case, we want to add i to the current total for our sum variable. this line of code basically assigns "sum" to "sum + i"
 sum += i;
