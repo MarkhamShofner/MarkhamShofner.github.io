@@ -15,7 +15,7 @@ I took a course in HTML/CSS in high school, where I learned how to build the bon
 
 I don’t remember 3 through 5. But high school wasn’t about coding for me. It was about fast friends, stage play rehearsals, grueling frisbee tournaments, late night conversations, and certain truths. College was much of the same, except not as many stage plays, more late nights, and fewer certain truths. I took a course in Java that was fun but didn’t quite snag me. Coding was dormant, or never really awake, until I was in the working world for a few years and found myself coming home late, and yet still excited about working through the next item in my “learn coding” to-do list. JavaScript and HTML/CSS were such immediately fascinating avenues in a way I didn’t properly appreciate when I was first introduced to them. It took me a while to poke around enough, and speak to enough people in the field, including those who had made the jump through an accelerated development program, before I was ready to jump myself. Let’s see where this goes.
 
-> “If you surrender to the wind, you can ride it.”
+  > “If you surrender to the wind, you can ride it.”
 
   - Tony Morrison
 
