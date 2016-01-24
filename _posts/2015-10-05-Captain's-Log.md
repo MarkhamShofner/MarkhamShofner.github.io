@@ -18,3 +18,5 @@ I don’t remember 3 through 5. But high school wasn’t about coding for me. It
 > “If you surrender to the wind, you can ride it.”
 
   - Tony Morrison
+
+	- Otto Von Bismarck
