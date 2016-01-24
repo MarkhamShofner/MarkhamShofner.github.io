@@ -1,0 +1,3 @@
+embedded images
+![Refinery](http://i.imgur.com/E72A0FX.jpg)
+This is a refinery...

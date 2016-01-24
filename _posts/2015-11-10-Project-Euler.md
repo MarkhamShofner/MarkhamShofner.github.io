@@ -10,7 +10,7 @@ tags:
  - math!
 ---
 
-Let me introduce you to something I love - behavioral languages, in this case JavaScript. I love making things happen with code! I love conditional statements, and for loops. Here is an example of solving a simple math problem using code - from one of my favorite websites, Project Eueler (https://projecteuler.net/). I encourage you to try some of these on your own. They are fun, logical, and educational.
+Let me introduce you to something I love - behavioral languages, in this case JavaScript. I love making things happen with code! I love conditional statements, and for loops. Here is an example of solving a simple math problem using code - from one of my favorite websites, [Project Euler] (https://projecteuler.net/). I encourage you to try some of these on your own. They are fun, logical, and educational.
 
 Problem 1 - Multiples of 3 and 5
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
