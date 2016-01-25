@@ -130,6 +130,6 @@ That is just my own code though. The idea is that you can apply similar principl
 
 In the New Year's spirit, and one of developing good habits, and cultivating efficient patterns, let us remember that -
 
-> We tend to repeat those things we have repeated.
+> We tend to repeat those things we have repeated."
 
 	- David Marmet

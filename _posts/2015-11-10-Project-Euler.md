@@ -53,6 +53,6 @@ In the end, it's a fairly simple concept. There is so much power to it though. W
 
 As Tyrion says “My brother has his sword, King Robert has his warhammer and I have my mind...and a mind needs books as a sword needs a whetstone if it is to keep its edge. That's why I read so much Jon Snow.” Except replace books with coding problems, and Jon Snow with you. Also R+L=J, naturally. And, again naturally, this means that R=J-L, and the corollary that (R+L)/J = 1.
 
->Sleep is good, and books are better.
+>Sleep is good, and books are better."
 
 	- Tyrion Lannister
