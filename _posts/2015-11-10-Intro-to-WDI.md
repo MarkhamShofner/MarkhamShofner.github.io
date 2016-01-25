@@ -19,6 +19,6 @@ Finish Infinite Jest. Raced through the first 14% before starting WDI, and now I
 Improve some of the vaguer habitual qualities. Primarily focus. There are actually an infinite number of ideas that you can make come to life with code. I find myself coming up with more ideas than I'm able to actualize, and at times these new ideas are distracting me from actualizing the ones I'm currently working on.
 There is so much to learn, and I don't want this blog to turn into a regurgitation of those things. So I'll just pick and choose interesting things as I go. My favorite thing so far has been solving math problems with code. Coming soon, we'll explore that concept further.
 
->"Time is Galleons, little brother"
+>Time is Galleons, little brother.
 
 	- Fred Weasley
