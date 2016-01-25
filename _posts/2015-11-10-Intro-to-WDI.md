@@ -21,4 +21,4 @@ There is so much to learn, and I don't want this blog to turn into a regurgitati
 
 >"Time is Galleons, little brother"
 
--Fred Weasley
+	- Fred Weasley

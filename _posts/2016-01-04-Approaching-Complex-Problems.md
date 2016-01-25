@@ -132,4 +132,4 @@ In the New Year's spirit, and one of developing good habits, and cultivating eff
 
 > “We tend to repeat those things we have repeated.”
 
--David Marmet
+	- David Marmet
