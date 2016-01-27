@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Approaching Complex Problems
+title:      Approaching Problems
 date:       2016-01-04 04:25:00
 author:     Markham Shofner
 summary:    Math math math
