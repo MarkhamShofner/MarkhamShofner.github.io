@@ -13,7 +13,7 @@ On October 12th, almost a month ago at this point, I started the Web Development
 
 The constant is the sheer amount of information in this world of the computer. The difference is the exposure/internalization rates are way higher with the resources that GA offers. The instructors just know a ton, and are generally better at relaying that information to me than a video tutorial or stack overflow answer is able to.
 
-Some more goals:
+Some more goals:  
   * Pause the sub-goal of learning C++. Contextually deeper language, from what I gather. It is important that someone understands it, but that person isn't me right now.
   * Finish a draft version of a personal website and portfolio set by Christmas.
   * Work through the first 10 problems on Project Euler (projecteuler.net) before new year's.
