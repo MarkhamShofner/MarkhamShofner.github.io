@@ -9,9 +9,12 @@ tags:
  - math!
 ---
 
-What follows is a mental framework you can use to solve seemingly complex problems. In this case, we will work through solving a mathematics question by using JavaScript as a tool, but more importantly, our ability to parse out simple questions within a larger more complex unifying question.    
-Ok. So last time we covered the basics of a Project Euler problem. Let's use this post to explore good practices for working through a more advanced problem. In this case, problem #6 from that same site.    
-Project Euler - problem 6  
+What follows is a mental framework you can use to solve seemingly complex problems. In this case, we will work through solving a mathematics question by using JavaScript as a tool, but more importantly, our ability to parse out simple questions within a larger more complex unifying question.
+
+Ok. So last time we covered the basics of a Project Euler problem. Let's use this post to explore good practices for working through a more advanced problem. In this case, problem #6 from that same site.
+
+Project Euler - problem 6
+
 ***
 The sum of the squares of the first ten natural numbers is,
 12 + 22 + ... + 102 = 385
