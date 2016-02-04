@@ -9,12 +9,10 @@ tags:
  - math!
 ---
 
-What follows is a mental framework you can use to solve seemingly complex problems. In this case, we will work through solving a mathematics question by using JavaScript as a tool, but more importantly, our ability to parse out simple questions within a larger more complex unifying question.
-
+What follows is a mental framework you can use to solve seemingly complex problems. In this case, we will work through solving a mathematics question by using JavaScript as a tool, but more importantly, our ability to parse out simple questions within a larger more complex unifying question.  
 Ok. So last time we covered the basics of a Project Euler problem. Let's use this post to explore good practices for working through a more advanced problem. In this case, problem #6 from that same site.
 
 Project Euler - problem 6
-The question itself
 ***
 The sum of the squares of the first ten natural numbers is,
 12 + 22 + ... + 102 = 385
@@ -25,17 +23,19 @@ Find the difference between the sum of the squares of the first one hundred natu
 ***
 
 Typically, it makes sense to understand a problem on a solely verbal level before you begin coding. A few questions that are useful to have full, or at least partial, answers to:
+
 1. What is the final purpose of the code?
 2. What are the main component vectors needed to get there?
 3. What are hurdles or likely glitches that should be avoided?
 4. What are the first steps required to get moving?
 
 Some basic answers for this problem are:
+
 1. Here the final goal is code that answers to the question "what is the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum". Ideally, the code is dynamic enough that you can answer many similar questions. So not just "the first hundred" but maybe "the first thousand" or "the first twenty" as well.
 2. Primary components needed are mechanisms to
-#a. Calculate the sum of the squares
-#b. Calculate the square of the sum
-#c. Calculate the difference
+- Calculate the sum of the squares
+- Calculate the square of the sum
+- Calculate the difference
 3. Hurdles could be anything. In my case, I sometimes have to rescope my variables when I am not careful initially. And since I will be using a few variables here, I'll keep an eye on that.
 4. Set up my pseudocode before any true lines of code.
 
