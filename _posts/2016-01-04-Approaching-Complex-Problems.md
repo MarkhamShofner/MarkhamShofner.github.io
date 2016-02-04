@@ -33,21 +33,21 @@ Some basic answers for this problem are:
 
 1. Here the final goal is code that answers to the question "what is the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum". Ideally, the code is dynamic enough that you can answer many similar questions. So not just "the first hundred" but maybe "the first thousand" or "the first twenty" as well.
 2. Primary components needed are mechanisms to
-- Calculate the sum of the squares
-- Calculate the square of the sum
-- Calculate the difference
+  - Calculate the sum of the squares
+  - Calculate the square of the sum
+  - Calculate the difference
 3. Hurdles could be anything. In my case, I sometimes have to rescope my variables when I am not careful initially. And since I will be using a few variables here, I'll keep an eye on that.
 4. Set up my pseudocode before any true lines of code.
 
-Following step four (and using the components discussed in step 2). Provide your pseudocode. Mine looks something like this.
-// function to return the square of an input integer x
-// function to sum the squares from 1 to input integer x
-// function to square the sum from 1 to input integer x
+Following step four (and using the components discussed in step 2). Provide your pseudocode. Mine looks something like this.  
+// function to return the square of an input integer x  
+// function to sum the squares from 1 to input integer x  
+// function to square the sum from 1 to input integer x  
 // function to find the sum square difference for an input integer x
 
 One could probably combine parts of these functions together (particularly something as simple as the square of an input integer), but personally I like breaking my functions out as much as possible, and I suggest you do the same. Unless you're Ender Wiggin.
 
-Expanding my first piece of pseudocode I would write a function to achieve the stated goal.
+Expanding my first piece of pseudocode I would write a function to achieve the stated goal.  
 // function to return the square of an input integer x
 Mine looks like this
 
@@ -58,7 +58,7 @@ function square (x) {
 ```
 What does yours look like?
 
-Next we can expand
+Next we can expand  
 // function to sum the squares from 1 to input integer x
 
 ```javascript
@@ -72,7 +72,7 @@ function sumSquare (x) {
 ```
 Here I used a for loop to determine the sum of all squares between 1 and the inputted value.
 
-Then we'll work through
+Then we'll work through  
 // function to square the sum from 1 to input integer x
 
 ```js
@@ -86,7 +86,7 @@ function squareSum (x) {
 ```
 This function has a similar logic to the preceding one.
 
-Finally, we can write a short function that combines the above two functions to calculate the difference between the two. Does yours look like this?
+Finally, we can write a short function that combines the above two functions to calculate the difference between the two. Does yours look like this?  
 // function to find the sum square difference for an input integer x
 
 ```js
