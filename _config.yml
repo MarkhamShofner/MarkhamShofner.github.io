@@ -4,7 +4,7 @@ email: markham.shofner@gmail.com
 description: "A blog."
 baseurl: ""
 url: "http://markhamshofner.github.io"
-title_description: "Full stack web developer with a JavaScript focus. Also experienced in Node, Angular, Express, HTML5, CSS3, D3, jQuery, Ruby on Rails, and a few more. Former management consultant. Professional frisbee player. General enthusiast - anything from sports trivia, through fantasy novels, to new technologies."
+title_description: "Full stack web developer with a JavaScript focus. Also experienced in Node, Angular, Express, HTML5, CSS3, D3, jQuery, Ruby on Rails, and a few more. Former management consultant. Professional [frisbee player](https://www.youtube.com/watch?v=MTR5tYkqyjU&t=15s). General enthusiast - anything from sports trivia, through fantasy novels, to new technologies."
 title_image: "https://i.imgur.com/AmqhzdF.jpg"
 google_analytics:
 disqus_account:
